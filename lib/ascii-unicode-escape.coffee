@@ -6,7 +6,7 @@ module.exports =
   activate: ->
     @subscriptions = new CompositeDisposable
     @subscriptions.add atom.commands.add 'atom-workspace',
-      'atom-plugin:convert': => @convert()
+      'ascii-unicode-escape:convert': => @convert()
 
   deactivate: ->
     @subscriptions.dispose()

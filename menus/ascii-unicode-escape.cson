@@ -2,19 +2,19 @@
 'context-menu':
   'atom-text-editor': [
     {
-      'label': 'Convert atom-plugin'
-      'command': 'atom-plugin:convert'
+      'label': 'Convert Text to Ascii'
+      'command': 'ascii-unicode-escape:convert'
     }
   ]
 'menu': [
   {
     'label': 'Packages'
     'submenu': [
-      'label': 'atom-plugin'
+      'label': 'ascii-unicode-escape'
       'submenu': [
         {
-          'label': 'Toggle'
-          'command': 'atom-plugin:convert'
+          'label': 'Convert Text to Ascii'
+          'command': 'ascii-unicode-escape:convert'
         }
       ]
     ]

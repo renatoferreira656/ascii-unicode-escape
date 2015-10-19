@@ -1,14 +1,14 @@
 {
-  "name": "atom-plugin",
-  "main": "./lib/atom-plugin",
+  "name": "ascii-unicode-escape",
+  "main": "./lib/ascii-unicode-escape",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Plugin to convert text to ascii with unicode escape",
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "atom-plugin:convert"
+    "atom-workspace": "ascii-unicode-escape:convert"
   },
-  "repository": "https://github.com/atom/atom-plugin",
+  "repository": "https://github.com/renatoferreira656/ascii-unicode-escape",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

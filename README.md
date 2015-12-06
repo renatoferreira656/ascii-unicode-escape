@@ -8,4 +8,8 @@ Example:
 
 The char ã will be \u00e3
 
+Shortcut:
+  - Ctrl-e
+
+
 ![Conversion](http://i3.kym-cdn.com/photos/images/original/000/058/092/wololooooooooooooooooooooo20110724-22047-dccquj.gif)

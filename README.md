@@ -11,7 +11,7 @@ Example:
  - é --> \u00e9
 
 How to use:
-  Select the text you want to convert and press Ctrl-alt-e
+  - Select the text you want to convert and press Ctrl-Alt-E
 
 
 ![Conversion](http://i3.kym-cdn.com/photos/images/original/000/058/092/wololooooooooooooooooooooo20110724-22047-dccquj.gif)

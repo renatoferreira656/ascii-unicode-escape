@@ -6,6 +6,6 @@ Languages where we have a lot of special characters like portuguese, increases t
 
 Example:
 
-The char (\u00e3) will be \u00e3
+The char ã will be \u00e3
 
 ![Conversion](http://i3.kym-cdn.com/photos/images/original/000/058/092/wololooooooooooooooooooooo20110724-22047-dccquj.gif)

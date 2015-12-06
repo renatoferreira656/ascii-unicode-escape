@@ -1,7 +1,7 @@
 {
   "name": "ascii-unicode-escape",
   "main": "./lib/ascii-unicode-escape",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Plugin to convert text to ascii with unicode escape",
   "keywords": [],
   "activationCommands": {

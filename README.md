@@ -6,7 +6,7 @@ Languages where we have a lot of special characters like portuguese, increases t
 
 Example:
 
-The char ã will be \u00e3
+ - The char ã will be \u00e3
 
 Shortcut:
   - Ctrl-e

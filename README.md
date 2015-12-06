@@ -6,10 +6,12 @@ Languages where we have a lot of special characters like portuguese, increases t
 
 Example:
 
- - The char ã will be \u00e3
+ - ã --> \u00e3
+ - ç --> \u00e7
+ - é --> \u00e9
 
-Shortcut:
-  - Ctrl-e
+How to use:
+  Select the text you want to convert and press Ctrl-alt-e
 
 
 ![Conversion](http://i3.kym-cdn.com/photos/images/original/000/058/092/wololooooooooooooooooooooo20110724-22047-dccquj.gif)

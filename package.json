@@ -5,7 +5,10 @@
   "description": "Plugin to convert text to ascii with unicode escape",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "ascii-unicode-escape:convert"
+    "atom-workspace": [
+        "ascii-unicode-escape:reverse",
+        "ascii-unicode-escape:convert"
+    ]
   },
   "repository": "https://github.com/renatoferreira656/ascii-unicode-escape",
   "license": "MIT",

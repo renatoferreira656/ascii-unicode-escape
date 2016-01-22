@@ -1,13 +1,13 @@
 {
   "name": "ascii-unicode-escape",
   "main": "./lib/ascii-unicode-escape",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Plugin to convert text to ascii with unicode escape",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": [
-        "ascii-unicode-escape:reverse",
-        "ascii-unicode-escape:convert"
+      "ascii-unicode-escape:reverse",
+      "ascii-unicode-escape:convert"
     ]
   },
   "repository": "https://github.com/renatoferreira656/ascii-unicode-escape",

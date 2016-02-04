@@ -13,5 +13,13 @@ Example:
 How to use:
   - Select the text you want to convert and press Ctrl-Alt-E
 
+Also you can unescape characters like:
+
+- \u00e3 --> ã
+- \u00e7 --> ç
+- \u00e9 --> é
+
+How to use:
+  - Select the text you want to unescape and press Ctrl-Alt-W
 
 ![Conversion](http://i3.kym-cdn.com/photos/images/original/000/058/092/wololooooooooooooooooooooo20110724-22047-dccquj.gif)
